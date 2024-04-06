@@ -1,0 +1,2 @@
+pymongo==4.6.1
+slack_sdk==3.21.3
